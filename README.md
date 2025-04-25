@@ -33,4 +33,4 @@ Aplikasi sederhana berbasis PHP untuk mencatat tugas harian
 5. Jalankan XAMPP dan buka 'http://localhost/todolist'
 
 ## Kontributor
-- Dicka Yan Fauzi 
+- Dicka Yan Fauzi https://github.com/DikaFauzi/Proyek-todolist.git
